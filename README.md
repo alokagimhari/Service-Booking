@@ -1,7 +1,7 @@
 # 🛠️ Service Booking System
 
 ## 📌 Overview  
-The **Service Booking System** is a full-stack web application that allows users to book and manage service appointments efficiently. It provides a seamless experience for both customers and service providers with role-based authentication.
+The **Service Booking System** is a full-stack web application that allows users to book and manage service appointments efficiently. It provides a seamless experience for customers and service providers with role-based authentication.
 
 ## 🚀 Features  
 ✅ **User Authentication & Authorization** (Spring Security & JWT)  
@@ -59,7 +59,7 @@ POST	/api/bookings	Create a new booking
 
 🎯 Usage
 Open http://localhost:4200 in your browser
-Register/Login to access the platform
+Register/log in to access the platform
 Browse services and book appointments
 Admins can manage services & users
 
